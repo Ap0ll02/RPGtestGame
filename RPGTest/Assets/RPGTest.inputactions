@@ -266,7 +266,7 @@
                 {
                     "name": "scroll",
                     "id": "d8d9e6d6-43f2-4fb5-a9ee-9c0057195d1f",
-                    "path": "1DAxis(minValue=-5,maxValue=5)",
+                    "path": "1DAxis",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
